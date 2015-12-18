@@ -1,0 +1,28 @@
+name: mm
+favicon: null
+layout_spectrum: 0.5873683970421553
+typography_spectrum: 0.8446701187640429
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7369465969968587
+  lightness: 0.3122918887529522
+  saturation: 0.6144453573506325
+  rhythmicContrast: 0.7659750350285321
+purpose: []
